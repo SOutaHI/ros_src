@@ -1,0 +1,12 @@
+[submodule "ros_comm"]
+	path = ros_comm
+	url = git@github.com:ros/ros_comm.git
+[submodule "ros_perception/image_common"]
+	path = ros_perception/image_common
+	url = git@github.com:ros-perception/image_common.git
+[submodule "ros_perception/image_transport_plugins"]
+	path = ros_perception/image_transport_plugins
+	url = git@github.com:ros-perception/image_transport_plugins.git
+[submodule "ros_perception/image_pipeline"]
+	path = ros_perception/image_pipeline
+	url = git@github.com:ros-perception/image_pipeline.git
